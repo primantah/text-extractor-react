@@ -1,6 +1,8 @@
 # 📄 PDF Text Extractor
 
-A **React + Node.js** web application that allows users to **upload a PDF**, **search for keywords**, and **view extracted text** from specific pages. The app supports **regular search**.
+A **React + Node.js** web application that allows users to **upload a PDF**, **search for keywords**, and **view extracted text** from specific pages.
+
+![Upload Page](documentation/screenshot-1.png)
 
 ---
 
