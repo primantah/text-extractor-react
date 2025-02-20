@@ -16,6 +16,7 @@ A **React + Node.js** web application that allows users to **upload a PDF**, **s
 ---
 
 ## 📂 Project Structure
+```
 text-extractor-react/
 ├── backend/ # Express Backend
 │ └── server.js
@@ -31,6 +32,7 @@ text-extractor-react/
 │ ├── package.json
 ├── vite.config.js # Proxy for API calls
 └── README.md
+```
 
 ---
 
