@@ -3,6 +3,7 @@
 A **React + Node.js** web application that allows users to **upload a PDF**, **search for keywords**, and **view extracted text** from specific pages.
 
 ![Upload Page](documentation/screenshot-1.png)
+<img src="documentation/screenshot-1.png" alt="Upload Page" width="200" />
 
 ---
 
