@@ -16,4 +16,30 @@ A **React + Node.js** web application that allows users to **upload a PDF**, **s
 ---
 
 ## 📂 Project Structure
-text-extractor-react/ ├── backend/ # Express Backend │ └── server.js │ ├── src/ # React Frontend │ ├── components/ │ │ ├── FileUploader.jsx # Handles file upload & search │ │ └── SearchResults.jsx # Displays extracted results │ ├── App.jsx │ ├── App.css │ └── main.jsx │ ├── public/ │ └── index.html │ ├── package.json ├── vite.config.js # Proxy for API calls └── README.md
+text-extractor-react/
+├── backend/ # Express Backend
+│ └── server.js
+│ ├── src/ # React Frontend
+│ ├── components/
+│ │ ├── FileUploader.jsx # Handles file upload & search
+│ │ └── SearchResults.jsx # Displays extracted results
+│ ├── App.jsx
+│ ├── App.css
+│ └── main.jsx
+│ ├── public/
+│ └── index.html
+│ ├── package.json
+├── vite.config.js # Proxy for API calls
+└── README.md
+
+---
+
+## 💾 Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/your-username/text-extractor-react.git
+   cd text-extractor-react
+2. **Install dependencies for both frontend and backend:**
+   
